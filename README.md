@@ -1,2 +1,2 @@
 # Credit-card-fraud-detection
-Credit card transactions labeled as fraudulent or genuine for 284,807 transactions,the dataset is highly imbalanced with 492 transactions are fradulent. Identifying fraudulent credit card transactions using decision tree and random forest.  
+Credit card transactions labeled as fraudulent or genuine .  The dataset has 284,807 transactions and is highly imbalanced (just 492 transactions are fradulent). Identifying fradulent credit card transactions using decision tree and random forest.  
